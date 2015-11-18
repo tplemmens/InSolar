@@ -55,3 +55,15 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# extra's
+*.user
+*.pubxml
+*.pyproj
+*.config
+env_x86/
+bin/
+obj/
+
+
+
