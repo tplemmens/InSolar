@@ -61,6 +61,8 @@ target/
 *.pubxml
 *.pyproj
 *.config
+*.sln
+*.suo
 env_x86/
 bin/
 obj/
