@@ -1,7 +1,7 @@
 # storage details
-account_name = 'meteosat'
-storage_name = 'meteosat' 
-account_key  = '4LjQHWMRLRUccYji5JBhAbzTnxdMu/TMKsDNE77wJIY0KJiTBSMz8tapgA6yzZtziKVaY5aScm2VraX9GvRMeg=='
+account_name = 'xxx'
+storage_name = 'xxx' 
+account_key  = 'xxx'
 
 # grid parameters
 pars_grid = {
